@@ -1,0 +1,45 @@
+.list-group
+{
+    list-style-type: none;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover
+{
+    color: green;
+    text-decoration: underline;
+}
+.col h5{
+    color: white;
+}
+
+.col p
+{
+    color: white;
+}
+.map
+{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+}
+.map:hover
+{
+    color: white;
+    background-color: black;
+}
+
+.footer-icons{
+    margin-left: auto;
+    display: flex;
+    gap: 15px;
+}
+.footer-icons a
+{
+    color: white;
+}

@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+padding: 0;
+}
+#exp{
+    background: url('https://i.pinimg.com/1200x/3c/d7/13/3cd71309005545851eb7b02227fa9b3c.jpg');
+height: 720px;
+background-repeat: no-repeat;
+background-size:cover;
+
+}

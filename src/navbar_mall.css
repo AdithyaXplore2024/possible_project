@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar_court
+{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    background-color:mediumblue;
+    padding: 20px;
+    padding-right: 100px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.navbar_court a
+{
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.navbar_court a:hover{
+    color:lightgreen;
+    text-decoration: underline;
+}

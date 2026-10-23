@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    padding: 10px;
+}
+
+.right-icons{
+    margin-left: auto;
+    display: flex;
+    gap: 15px;
+}
+
+.right-icons
+{
+    padding: 10px;
+}
